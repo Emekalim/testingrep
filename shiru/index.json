@@ -3,11 +3,11 @@
     "id": "piratebaysrc",
     "name": "Pirate Bay SRC",
     "version": "1.0.0",
-    "main": "sources/nyaasrc",
+    "main": "sources/piratebaysrc",
     "type": "torrent",
     "nsfw": false,
     "description": "Shiru extension for Pirate Bay (movies & TV)",
     "icon": "https://sukebei.nyaa.si/static/favicon.png",
-    "update": "gh:Emekalim/SourceExtensions/shiru"
+    "update": "gh:Emekalim/testingrep/shiru"
   }
 ]
